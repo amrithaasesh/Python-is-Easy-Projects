@@ -26,7 +26,7 @@ def board(rows,col):
 		return False
 
 
-output=board(5,5)
+output=board(10,15)
 
 if output==True:
 	print("\n\nYour chessboard has been created successfully")
